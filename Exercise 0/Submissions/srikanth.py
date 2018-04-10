@@ -1,0 +1,8 @@
+print "HEllo World"
+print "HEllo Again"
+print "I Like typing this"
+print "this is fun"
+print "yay! Printing!"
+print " I'd much rather" 
+print "This is Srikanth"
+print "Today Assighnment "
